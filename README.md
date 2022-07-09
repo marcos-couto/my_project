@@ -1,6 +1,6 @@
-# SOME USEFUL GIT COMMANDS
+## SOME USEFUL GIT COMMANDS
 
-## 
+ 
    $ git --version <br>
    $ which git <br> 
    $ git init <br> 
