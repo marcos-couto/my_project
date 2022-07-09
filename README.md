@@ -1,4 +1,4 @@
-## SOME USEFUL GIT COMMANDS
+## Some Useful Git Commands:
 
  
    $ git --version <br>
